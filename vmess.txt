@@ -1,1 +1,1 @@
-vless://83757808-5be4-4db1-91b9-891cb445d5c4@salamchetoriahirantehrankoja.mahdi22mohammad.site:8880?path=%2Fvlesshttp&security=none&encryption=none&type=ws#http_cloudflare-AmirHossein
+vless://430dc7d8-4a6d-44c6-9234-2de70e773475@aypi.mahdi22mohammad.site:443?path=%2Fcdn3.mahdisrv.site%2Fvless&security=tls&encryption=none&alpn=h2,http/1.1&host=freevmess.hojena98254437.workers.dev&fp=randomized&type=ws&sni=freevmess.hojena98254437.workers.dev#Workers-AmirHossein
